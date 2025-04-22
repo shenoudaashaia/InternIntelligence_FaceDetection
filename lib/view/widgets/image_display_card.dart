@@ -4,12 +4,12 @@ import 'package:flutter/material.dart';
 class ImageDisplayCard extends StatelessWidget {
   final File? image;
 
-  const ImageDisplayCard({Key? key, required this.image}) : super(key: key);
+  const ImageDisplayCard({super.key, required this.image});
 
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: MediaQuery.of(context).size.height * 0.56,
+      height: MediaQuery.of(context).size.height * 0.4,
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(20),
@@ -18,7 +18,7 @@ class ImageDisplayCard extends StatelessWidget {
             color: Colors.black.withOpacity(0.1),
             spreadRadius: 1,
             blurRadius: 10,
-            offset: Offset(0, 5),
+            offset:const Offset(0, 5),
           ),
         ],
       ),
