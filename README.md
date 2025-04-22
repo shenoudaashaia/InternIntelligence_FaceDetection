@@ -20,12 +20,16 @@ This Flutter application uses **Google ML Kit** to detect faces in images and an
 - Camera / Image Picker – to capture or select images
 
 ## 📸 Screenshots
+
 ## 🎥 Video Demonstration
 
-Watch the video here:
+You can watch the application demo directly on the HTML page I created:  
+👉 [Click here to view the video demonstration](https://shenoudaashaia.github.io/InternIntelligence_FaceDetection/)
 
-[[Watch the video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)](https://shenoudaashaia.github.io/InternIntelligence_FaceDetection/
-)
+Or watch it embedded below:
+
+<iframe width="100%" height="500" src="https://shenoudaashaia.github.io/InternIntelligence_FaceDetection/" frameborder="0" allowfullscreen></iframe>
+
 
 
 
