@@ -21,9 +21,10 @@ This Flutter application uses **Google ML Kit** to detect faces in images and an
 
 ## 📸 Screenshots
 <video width="640" height="360" controls>
-  <source src="https://github.com/your-username/InternIntelligence_FaceDetection/raw/main/assets/video.mp4" type="video/mp4">
+  <source src="https://your-username.github.io/repository-name/assets/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 
 <img width="1440" alt="Screenshot 2025-04-07 at 1 03 06 PM" src="https://github.com/user-attachments/assets/f30709cf-d548-4394-867c-3922bd7b2be2" />
