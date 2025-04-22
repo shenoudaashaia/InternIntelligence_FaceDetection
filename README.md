@@ -24,7 +24,8 @@ This Flutter application uses **Google ML Kit** to detect faces in images and an
 
 Watch the video here:
 
-[Watch the video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[[Watch the video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)](https://shenoudaashaia.github.io/InternIntelligence_FaceDetection/
+)
 
 
 
